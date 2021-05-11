@@ -4,10 +4,12 @@ This Project is about Employee management
 
 Feature
 -----
--> Add Employees.
--> Listing Employees.
--> Inline employee info Edit.
--> Export CSV.
+<ul>
+	<ol>Add Employees.</ol>
+	<ol>Listing Employees.</ol>
+	<ol>Inline employee info Edit.</ol>
+	<ol>Export CSV.</ol>
+</ul>
 
 
 Requirement
@@ -21,6 +23,8 @@ MySQL 5.6
 
 Setup
 -------
--> Import 'employees_db.sql' in phpmyadmin.
--> Change Your configuration in config.php
--> Run 'http://localhost/projectfolder/'
+<ul>
+	<ol>Import 'employees_db.sql' in phpmyadmin.</ol>
+	<ol>Change Your configuration in config.php</ol>
+	<ol>Run 'http://localhost/projectfolder/'</ol>
+</ul>
